@@ -1,0 +1,5 @@
+INSERT INTO cliente (nombre, apellido_paterno, apellido_materno, email, direccion_envio, id_pedido) VALUES ('Jose', 'Ruiz', 'Carmona', 'jose@example.com', 'Las lomas', 1);
+INSERT INTO cliente (nombre, apellido_paterno, apellido_materno, email, direccion_envio, id_pedido) VALUES ('Juan', 'Lopez', 'Rubio', 'juan@example.com', 'Polanco', 2);
+INSERT INTO cliente (nombre, apellido_paterno, apellido_materno, email, direccion_envio, id_pedido) VALUES ('Pedro', 'Ramirez', 'Santibañez', 'pedro@example.com', 'Culiacan', 3);
+INSERT INTO cliente (nombre, apellido_paterno, apellido_materno, email, direccion_envio, id_pedido) VALUES ('Santiago', 'Martínez', 'Contreras', 'santiago@example.com', 'Tangamandapio', 4);
+INSERT INTO cliente (nombre, apellido_paterno, apellido_materno, email, direccion_envio, id_pedido) VALUES ('Carmen', 'Cabrera', 'Lopez', 'carmen@example.com', 'Namekusei', 5);
