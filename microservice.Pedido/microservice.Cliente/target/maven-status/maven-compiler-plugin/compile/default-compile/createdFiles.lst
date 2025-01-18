@@ -1,0 +1,7 @@
+com\microservice\Cliente\entities\Cliente.class
+com\microservice\Cliente\persistence\ClienteRepository.class
+com\microservice\Cliente\service\impl\ClientService.class
+com\microservice\Cliente\controller\ClientController.class
+com\microservice\Cliente\Application.class
+com\microservice\Cliente\service\IClienteService.class
+com\microservice\Cliente\entities\Cliente$ClienteBuilder.class
